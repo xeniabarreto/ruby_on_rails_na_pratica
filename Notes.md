@@ -17,7 +17,8 @@ Iniciando...
 
 - bundle init  - criar um Gemfile
 - bundle install - instalar as gems 
-- rails new app  - criar a past app com toda estrutura
+- rails new .  - criar aplicação ja dentro da pasta criada
 - bundle exec rails db:migrate - cria arquivo conexao db
 - rails s  -  rodar a aplicação
+
 
